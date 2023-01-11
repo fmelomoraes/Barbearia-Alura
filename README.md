@@ -1,2 +1,15 @@
-# Barbearia-Alura
-((EM CONSTRUÇÃO))   Iniciando projeto de Criação de Uma site simples, onde colocarei em prática o aprendizado...
+<h1> Barbearia-Alura </h1>
+
+
+<h3>Treinando tags HTML e estilizando com o CSS</h3>
+Com o intuto de revisar e fixar conte.  
+
+	Como por exemplo:
+
+<ul>
+	<li>header</li>
+	<li>divisão de conteúdos com div’s</li
+	<li>a utilização do “class” e do “id”</li>
+	<li>como marcar com tag, id, class</li>
+	<li>margin, alinhamento, etc...</li>	
+</ul>
