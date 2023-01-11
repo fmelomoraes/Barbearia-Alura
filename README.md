@@ -1,11 +1,10 @@
-<h1> Barbearia-Alura </h1>
+<h1> Barbearia Alura </h1>
 
 
 <h3>Treinando tags HTML e estilizando com o CSS</h3>
-Com o intuto de revisar e fixar conte.  
+Com o intuito de revisar e fixar conteúdos.  
 
 	Como por exemplo:
-
 <ul>
 	<li>header</li>
 	<li>divisão de conteúdos com div’s</li
